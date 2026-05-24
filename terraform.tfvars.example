@@ -1,0 +1,7 @@
+subscription_id     = "your-azure-subscription-id"
+location            = "eastus"
+resource_group_name = "rg-aks-project"
+cluster_name        = "aks-cluster"
+node_count          = 1
+node_vm_size        = "Standard_DC2s_v3"
+acr_name            = "your-unique-acr-name"
